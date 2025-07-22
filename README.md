@@ -1,5 +1,7 @@
 ## Pushforce
 
+Puedes visitar la página tambien: [www.healtpix.com](https://termux.healtpix.com/)
+
 Verificador para PushForce  
 ======================================
 
